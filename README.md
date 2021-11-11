@@ -33,7 +33,7 @@
 
 # Projects 
 ## * Machine Learning : 
-     * [Diabetes Outcome Prediction](https://github.com/aashay15/Diabetes-Outcome-Prediction)
+   * [Diabetes Outcome Prediction](https://github.com/aashay15/Diabetes-Outcome-Prediction)
 
 
 
