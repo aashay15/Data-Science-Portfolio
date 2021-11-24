@@ -41,9 +41,11 @@
 
 ## Machine Learning : 
    * [Diabetes Outcome Prediction](https://github.com/aashay15/Diabetes-Outcome-Prediction) : (Binary Classification Problem) Basic Data analysis of diabetes patients and predicting based on the provided features wether a person is detected with diabetes or not.
+   * [Customer Personality Analysis](https://www.kaggle.com/sharmaaashay/customer-personality-analysis) : (Clustering | PAM | EDA) Customer Segmentation based on their data. In what categories we can segment the customers based on different set of features like Income, Amount Spent, Education, Marital Status etc.
+   * [NLP Capstone Project](https://github.com/aashay15/DS-Capstone) : (NLP Prediction Problem) Predicting the next word based on the user input.
    * [Housing Prices Prediction](https://github.com/aashay15/Housing-Data-Analysis/blob/master/Housing-Data-Analysis.md) : (Regression, BoxCox Transform, regression forest) Performed few visualisation methods to understand how house prices are affected and based on visualisation developed some prediction models and compared them for accuracy.
    * [Titanic Data EDA & Prediction Top 4% Kaggle](https://www.kaggle.com/sharmaaashay/titanic-eda-prediction-top-4) : (Classification, EDA, Ensemble Methos(Random Forest & XGBoost) The Hello World of Data Science, but here I tried to implement more advanced models like RandomForest and XGBoost.
-   * [NLP Capstone Project](https://github.com/aashay15/DS-Capstone) : (NLP Prediction Problem) Predicting the next word based on the user input.
+   
 
 ## Deep Learning : 
   * [DCGAN](https://github.com/aashay15/Anime-DCGAN) : A keras implementation of a DCGAN that generates anime character faces. 
