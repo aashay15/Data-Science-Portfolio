@@ -40,6 +40,7 @@
   * [NLP Capstone Project EDA](https://github.com/aashay15/DS-Capstone/blob/master/Milestone.md) : EDA for my JHU Data Science Specialization (Coursera)
 
 ## Machine Learning : 
+   * [Flu Shot Learning (DRIVEN DATA)](https://rpubs.com/aashay15/flu_shot_learning) : (Multilabel Classification Problem) To predict how likely individuals are to receive their H1N1 and seasonal flu vaccines. This reports consists of EDA and Modeling procedures.
    * [Diabetes Outcome Prediction](https://github.com/aashay15/Diabetes-Outcome-Prediction) : (Binary Classification Problem) Basic Data analysis of diabetes patients and predicting based on the provided features wether a person is detected with diabetes or not.
    * [Customer Personality Analysis](https://www.kaggle.com/sharmaaashay/customer-personality-analysis) : (Clustering | PAM | EDA) Customer Segmentation based on their data. In what categories we can segment the customers based on different set of features like Income, Amount Spent, Education, Marital Status etc.
    * [NLP Capstone Project](https://github.com/aashay15/DS-Capstone) : (NLP Prediction Problem) Predicting the next word based on the user input.
