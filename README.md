@@ -1,13 +1,3 @@
-# Data-Science-Portfolio
-* I am Aashay Sharma (CS 4th Year).
-* I aspire to become a Data Scientist.
-* I like to perform EDA, visualize and learn from Data.
-* Topics I am eager to understand deeply : 
-  * Reinforcement Learning 
-  * Generative Adversarial Networks 
-  * AI application in Gaming Industry 
-
-
 # Projects 
 
 ## Exploratory Data Analysis : 
